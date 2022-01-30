@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: clean-folder-004-by-SerhiiPlys
+Version: 0.0.4
+Summary: Cleaning folder app
+Home-page: https://github.com/SerhiiPlys/goit_pyton5_well.git
+Author: Serhii Plys
+Author-email: ultra111@ukr.net
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Project Name
+
+This is a styding project on GoiT_Python5
+This app clean and reclean folder cotains garbage
+You can use command line(prefer) or simle - input path via keyboard
+
+## Installation
+
+The installation process as usuial using pip
+
+## Usage
+
+Usage is very simple - install and use))))
+
+## Contributing
+
+
+
+## History
+
+Version 0.0.4
+
+## Credits
+
+Free for now
+
+## License
+
+It uses MIT license
+
